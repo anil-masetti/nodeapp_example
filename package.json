@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "aws-cli": "^0.0.2",
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "geoip-lite": "^1.4.4"
   }
 }
